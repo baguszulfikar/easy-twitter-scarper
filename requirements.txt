@@ -47,10 +47,6 @@ coala-utils==0.5.1
 colorama
 colorful==0.5.4
 comtypes==1.1.8
-conda==4.9.2
-conda-build==3.21.4
-conda-package-handling
-conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cryptography
 cycler==0.10.0
