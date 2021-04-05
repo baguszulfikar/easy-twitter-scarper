@@ -139,7 +139,6 @@ mysql==0.0.2
 mysql-connector==2.2.9
 mysql-connector-python==8.0.23
 mysqlclient==2.0.3
-navigator-updater==0.2.1
 nbclient
 nbconvert
 nbformat
