@@ -52,7 +52,7 @@ cryptography
 cycler==0.10.0
 Cython
 cytoolz==0.11.0
-decorator
+decorator==4.3.0
 defusedxml
 diff-match-patch
 docutils==0.16
@@ -71,7 +71,6 @@ gevent
 gitdb==4.0.5
 GitPython==3.1.13
 glob2
-gmpy2==2.0.8
 google-api-core==1.26.1
 google-auth==1.27.1
 googleapis-common-protos==1.53.0
@@ -87,7 +86,7 @@ heroku3==4.2.3
 hiredis==1.1.0
 html5lib
 ibm-db==3.0.3
-idna
+idna==2.5
 imageio
 imagesize
 imbalanced-learn==0.7.0
@@ -100,7 +99,7 @@ ipywidgets
 isort
 itsdangerous
 jdcal==1.4.1
-jedi 
+jedi==0.17.2
 Jinja2
 joblib
 json5==0.9.5
@@ -109,7 +108,6 @@ jupyter==1.0.0
 jupyter-client
 jupyter-console
 jupyter-core
-jupyterlab==2.2.6
 jupyterlab-pygments
 jupyterlab-server
 jupyterlab-widgets
@@ -163,7 +161,7 @@ pandas
 pandas-flavor==0.2.0
 pandocfilters
 paramiko
-parso==0.7.0
+parso==0.8.0
 partd==1.1.0
 path
 pathlib2
@@ -214,7 +212,7 @@ pyreadline==2.1
 pyrsistent
 PySocks
 pytest==6.2.2
-python-dateutil 
+python-dateutil==1.5.0
 python-engineio==4.0.0
 python-jsonrpc-server 
 python-language-server 
@@ -264,8 +262,6 @@ sphinxcontrib-jsmath
 sphinxcontrib-qthelp 
 sphinxcontrib-serializinghtml 
 sphinxcontrib-websupport 
-spyder 
-spyder-kernels 
 sql==0.4.0
 SQLAlchemy 
 sqlparse 
