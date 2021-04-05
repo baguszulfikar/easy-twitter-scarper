@@ -9,7 +9,6 @@ argon2-cffi
 asn1crypto
 astor==0.8.1
 astroid
-astropy
 async-generator
 async-timeout==3.0.1
 atomicwrites==1.4.0
