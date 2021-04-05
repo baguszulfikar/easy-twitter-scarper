@@ -43,7 +43,6 @@ cffi
 chardet
 click
 cloudpickle
-clyent==1.2.2
 coala-utils==0.5.1
 colorama
 colorful==0.5.4
