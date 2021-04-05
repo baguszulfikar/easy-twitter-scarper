@@ -237,7 +237,6 @@ requests-oauthlib==1.3.0
 retrying==1.3.3
 rope 
 rsa==4.7.2
-Rtree==0.9.4
 ruamel-yaml==0.15.87
 sacremoses==0.0.43
 Sastrawi==1.0.1
