@@ -88,8 +88,6 @@ ibm-db==3.0.3
 idna==2.8
 imageio
 imagesize
-imbalanced-learn==0.7.0
-imblearn==0.0
 importlib-metadata
 iniconfig
 intervaltree
@@ -117,8 +115,6 @@ libarchive-c
 lightgbm==3.1.1
 littleutils==0.2.2
 locket==0.2.1
-lux==0.8.2
-lux-api==0.2.3
 lxml
 MarkupSafe==1.1.1
 mccabe==0.6.1
@@ -272,7 +268,6 @@ tornado
 tqdm 
 traitlets 
 transformers==4.2.1
-tune-sklearn==0.2.1
 tweepy==3.10.0
 twitterscraper==1.6.1
 typed-ast 
