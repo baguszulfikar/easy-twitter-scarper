@@ -161,7 +161,7 @@ pandas
 pandas-flavor==0.2.0
 pandocfilters
 paramiko
-parso==0.8.0
+parso==0.7.0
 partd==1.1.0
 path
 pathlib2
@@ -212,7 +212,7 @@ pyreadline==2.1
 pyrsistent
 PySocks
 pytest==6.2.2
-python-dateutil==1.5.0
+python-dateutil==2.7.0
 python-engineio==4.0.0
 python-jsonrpc-server 
 python-language-server 
