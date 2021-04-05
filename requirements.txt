@@ -123,7 +123,6 @@ llvmlite==0.35.0
 locket==0.2.1
 lux==0.8.2
 lux-api==0.2.3
-lux-widget==0.1.4
 lxml
 MarkupSafe==1.1.1
 matplotlib
