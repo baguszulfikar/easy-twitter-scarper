@@ -80,12 +80,12 @@ grpcio==1.36.1
 gunicorn==20.1.0
 h5py==2.10.0
 HeapDict==1.0.1
-heroku==0.1.4
+# heroku==0.1.4
 heroku3==4.2.3
 hiredis==1.1.0
 html5lib
 ibm-db==3.0.3
-idna==2.5
+idna==2.8
 imageio
 imagesize
 imbalanced-learn==0.7.0
@@ -203,7 +203,7 @@ pyreadline==2.1
 pyrsistent
 PySocks
 pytest==6.2.2
-python-dateutil==2.7.0
+python-dateutil==2.7.3
 python-engineio==4.0.0
 python-jsonrpc-server 
 python-language-server 
