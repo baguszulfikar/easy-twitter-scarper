@@ -52,7 +52,6 @@ cryptography
 cycler==0.10.0
 Cython
 cytoolz==0.11.0
-dask
 decorator
 defusedxml
 diff-match-patch
