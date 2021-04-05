@@ -14,7 +14,7 @@ async-timeout==3.0.1
 atomicwrites==1.4.0
 attrs
 autopep8
-Babel
+# Babel
 backcall
 backports.functools-lru-cache
 backports.shutil-get-terminal-size
@@ -66,7 +66,7 @@ fsspec
 future==0.18.2
 geographiclib==1.50
 geopy==2.1.0
-gevent
+# gevent
 gitdb==4.0.5
 GitPython==3.1.13
 glob2
@@ -76,9 +76,9 @@ googleapis-common-protos==1.53.0
 gpustat==0.6.0
 graphviz==0.16
 greenlet
-grpcio==1.36.1
+# grpcio==1.36.1
 gunicorn==20.1.0
-h5py==2.10.0
+# h5py==2.10.0
 HeapDict==1.0.1
 # heroku==0.1.4
 heroku3==4.2.3
@@ -115,7 +115,7 @@ libarchive-c
 lightgbm==3.1.1
 littleutils==0.2.2
 locket==0.2.1
-lxml
+# lxml
 MarkupSafe==1.1.1
 mccabe==0.6.1
 mistune==0.8.4
@@ -131,8 +131,8 @@ nbclient
 nbconvert
 nbformat
 nest-asyncio
-networkx
-nltk
+# networkx
+# nltk
 nose
 numba==0.52.0
 numexpr
@@ -160,7 +160,7 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect
 pickleshare
-Pillow
+# Pillow
 pingouin==0.3.9
 pkginfo==1.7.0
 pluggy==0.13.1
@@ -175,7 +175,7 @@ ptyprocess
 pulsar==2.0.2
 pulsar-odm==0.7.0
 py
-py-spy==0.3.4
+# py-spy==0.3.4
 pyaml==20.4.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -183,7 +183,7 @@ pycodestyle
 pycosat==0.6.3
 pycparser
 pycurl==7.43.0.6
-pydeck==0.6.1
+# pydeck==0.6.1
 pydocstyle
 pyerfa
 pyflakes
@@ -205,11 +205,11 @@ python-jsonrpc-server
 python-language-server 
 python-sql==1.2.1
 pytz 
-PyWavelets 
+# PyWavelets 
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.4.1
-pyzmq==20.0.0
+# pyzmq==20.0.0
 QDarkStyle==2.8.1
 QtAwesome 
 qtconsole 
@@ -236,7 +236,7 @@ snowballstemmer
 sortedcollections 
 sortedcontainers 
 soupsieve 
-Sphinx 
+# Sphinx 
 sphinxcontrib-applehelp 
 sphinxcontrib-devhelp 
 sphinxcontrib-htmlhelp 
@@ -245,12 +245,12 @@ sphinxcontrib-qthelp
 sphinxcontrib-serializinghtml 
 sphinxcontrib-websupport 
 sql==0.4.0
-SQLAlchemy 
+# SQLAlchemy 
 sqlparse 
-statsmodels==0.12.2
+# statsmodels==0.12.2
 streamlit==0.76.0
-sympy 
-tables==3.6.1
+# sympy 
+# tables==3.6.1
 tabulate==0.8.7
 tblib 
 tensorboardX==2.1
@@ -261,7 +261,7 @@ threadpoolctl
 three-merge 
 ticker==0.13
 tifffile==2020.10.1
-tokenizers==0.9.4
+# tokenizers==0.9.4
 toml 
 toolz 
 tornado 
@@ -281,7 +281,7 @@ watchdog
 wcwidth 
 webencodings==0.5.1
 Werkzeug 
-widgetsnbextension==3.5.1
+# widgetsnbextension==3.5.1
 win-inet-pton 
 win-unicode-console==0.5
 wincertstore==0.2
