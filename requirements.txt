@@ -96,9 +96,6 @@ importlib-metadata
 iniconfig
 intervaltree
 ipykernel
-ipython
-ipython-genutils
-ipython-sql==0.4.0
 ipywidgets
 isort
 itsdangerous
